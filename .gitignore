@@ -1,0 +1,16 @@
+.gradle/
+.kotlin/
+**/build/
+**/.cxx/
+local.properties
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+*.gguf
+*.safetensors
+*.apk
+*.aab
+*.aar
+captures/
